@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+*.env
+*.env.*
+
+# Hardhat artifacts and cache
+artifacts/
+cache/
+coverage/
+coverage.json
+
+# Configuration files
+backend/hardhat.config.js
+frontend/config.js
+
+# Build outputs
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp 

@@ -1,0 +1,49 @@
+{"level":"info","message":"🚀 TokenTrust backend running on port 3000","timestamp":"2025-04-28T17:36:04.101Z"}
+{"level":"info","message":"🚀 TokenTrust backend running on port 3000","timestamp":"2025-05-01T09:04:18.832Z"}
+{"level":"info","message":"🚀 TokenTrust backend running on port 5000","timestamp":"2025-05-01T12:33:36.987Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T12:59:58.887Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmcWH617xRqx6VT8QrYcUYd54maWUk1XrdpMifVcEKJYi7","timestamp":"2025-05-01T13:00:02.401Z"}
+{"level":"error","message":"KYC submission failed: transaction from mismatch (argument=\"tx.from\", value=\"0xF6724C4547335F95F51b10dbb9D22091D1B028CD\", code=INVALID_ARGUMENT, version=6.13.7)","timestamp":"2025-05-01T13:00:02.481Z"}
+{"level":"error","message":"KYC submission failed: Blockchain error: transaction from mismatch (argument=\"tx.from\", value=\"0xF6724C4547335F95F51b10dbb9D22091D1B028CD\", code=INVALID_ARGUMENT, version=6.13.7)","timestamp":"2025-05-01T13:00:02.487Z"}
+{"level":"info","message":"🚀 TokenTrust backend running on port 5000","timestamp":"2025-05-01T13:19:22.027Z"}
+{"level":"info","message":"🚀 TokenTrust backend running on port 5000","timestamp":"2025-05-01T13:23:40.143Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T13:24:04.231Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmcEtxP569bDmCxAMnae143R3uSnzsSsrEofseP3W2hKf5","timestamp":"2025-05-01T13:24:05.387Z"}
+{"level":"error","message":"KYC submission failed: contract runner does not support sending transactions (operation=\"sendTransaction\", code=UNSUPPORTED_OPERATION, version=6.13.7)","timestamp":"2025-05-01T13:24:05.419Z"}
+{"level":"error","message":"KYC submission failed: Blockchain error: contract runner does not support sending transactions (operation=\"sendTransaction\", code=UNSUPPORTED_OPERATION, version=6.13.7)","timestamp":"2025-05-01T13:24:05.427Z"}
+{"level":"info","message":"🚀 TokenTrust backend running on port 5000","timestamp":"2025-05-01T13:26:16.368Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T13:26:31.295Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmcEtxP569bDmCxAMnae143R3uSnzsSsrEofseP3W2hKf5","timestamp":"2025-05-01T13:26:32.775Z"}
+{"level":"error","message":"KYC submission failed: transaction from mismatch (argument=\"tx.from\", value=\"0xF6724C4547335F95F51b10dbb9D22091D1B028CD\", code=INVALID_ARGUMENT, version=6.13.7)","timestamp":"2025-05-01T13:26:32.802Z"}
+{"level":"error","message":"KYC submission failed: Blockchain error: transaction from mismatch (argument=\"tx.from\", value=\"0xF6724C4547335F95F51b10dbb9D22091D1B028CD\", code=INVALID_ARGUMENT, version=6.13.7)","timestamp":"2025-05-01T13:26:32.804Z"}
+{"level":"info","message":"🚀 TokenTrust backend running on port 5000","timestamp":"2025-05-01T13:27:18.970Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T13:27:23.945Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmcEtxP569bDmCxAMnae143R3uSnzsSsrEofseP3W2hKf5","timestamp":"2025-05-01T13:27:24.861Z"}
+{"level":"error","message":"KYC submission failed: contract runner does not support sending transactions (operation=\"sendTransaction\", code=UNSUPPORTED_OPERATION, version=6.13.7)","timestamp":"2025-05-01T13:27:24.869Z"}
+{"level":"error","message":"KYC submission failed: Blockchain error: contract runner does not support sending transactions (operation=\"sendTransaction\", code=UNSUPPORTED_OPERATION, version=6.13.7)","timestamp":"2025-05-01T13:27:24.871Z"}
+{"level":"info","message":"🚀 TokenTrust backend running on port 5000","timestamp":"2025-05-01T13:28:32.206Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T13:28:40.274Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmcEtxP569bDmCxAMnae143R3uSnzsSsrEofseP3W2hKf5","timestamp":"2025-05-01T13:28:41.144Z"}
+{"level":"error","message":"KYC submission failed: contract runner does not support sending transactions (operation=\"sendTransaction\", code=UNSUPPORTED_OPERATION, version=6.13.7)","timestamp":"2025-05-01T13:28:41.150Z"}
+{"level":"error","message":"KYC submission failed: Blockchain error: contract runner does not support sending transactions (operation=\"sendTransaction\", code=UNSUPPORTED_OPERATION, version=6.13.7)","timestamp":"2025-05-01T13:28:41.152Z"}
+{"level":"info","message":"🚀 TokenTrust backend running on port 5000","timestamp":"2025-05-01T13:32:58.842Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T13:35:33.983Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmeP3J8mgnzF3N6qT7zzvd5NLMHTDKE7u489wLiwo6vPtT","timestamp":"2025-05-01T13:35:35.075Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T13:37:32.742Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmZhwfB1fmUFkEUXPrRaoQFEF6u8BEQ8bayCqgLZv5fucC","timestamp":"2025-05-01T13:37:34.884Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T14:24:57.594Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmYWuwxavScJS5CYDfniXMH75qWCfZ8Mz7rJtgSK45Kybi","timestamp":"2025-05-01T14:24:59.101Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T14:44:14.347Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmYWuwxavScJS5CYDfniXMH75qWCfZ8Mz7rJtgSK45Kybi","timestamp":"2025-05-01T14:44:15.633Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T15:02:37.404Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmYWuwxavScJS5CYDfniXMH75qWCfZ8Mz7rJtgSK45Kybi","timestamp":"2025-05-01T15:02:38.298Z"}
+{"level":"info","message":"🚀 TokenTrust backend running on port 5000","timestamp":"2025-05-01T15:03:32.277Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T15:03:45.506Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmYWuwxavScJS5CYDfniXMH75qWCfZ8Mz7rJtgSK45Kybi","timestamp":"2025-05-01T15:03:46.409Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T15:05:31.233Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmYWuwxavScJS5CYDfniXMH75qWCfZ8Mz7rJtgSK45Kybi","timestamp":"2025-05-01T15:05:35.388Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T15:06:37.301Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmYWuwxavScJS5CYDfniXMH75qWCfZ8Mz7rJtgSK45Kybi","timestamp":"2025-05-01T15:06:38.163Z"}
+{"level":"info","message":"File uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmbPbTw6Crh47c7Ky9VvMRgZ6KfBDfRf8DHvHd4wcG85eK","timestamp":"2025-05-01T16:07:41.645Z"}
+{"level":"info","message":"Metadata uploaded to IPFS: https://gateway.pinata.cloud/ipfs/QmYWuwxavScJS5CYDfniXMH75qWCfZ8Mz7rJtgSK45Kybi","timestamp":"2025-05-01T16:07:43.958Z"}
+{"level":"info","message":"🚀 TokenTrust backend running on port 5000","timestamp":"2025-05-03T08:41:49.261Z"}
